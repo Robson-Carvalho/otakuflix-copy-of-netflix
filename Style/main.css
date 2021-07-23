@@ -1,0 +1,130 @@
+:root{
+    --red: #E50914;
+    --black: #141414;
+    --white: #ffffff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+body{
+    background: var(--black);
+    font-family: 'Times New Roman', Times, serif;
+    color: var(--white);
+}
+
+header .container{
+    height: 65px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo{
+    margin-left: 25px;
+    color: var(--red);
+    font-family: Arial Black;
+    font-size: 40px;
+}
+
+header nav{
+    margin-right: 3.5%;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+header nav a:hover{
+    color: #DADADA;
+}
+
+/*Filme principal*/
+
+.anime-main{
+    font-size: 16px;
+    background: linear-gradient( to right, black -85rem, transparent), linear-gradient(to top, black -2rem, transparent ), url(/img/logo-main.png);
+    
+    height: 600px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.anime-main .sinopse{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-right: 20%;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+
+}
+
+.anime-main .title{
+    margin-top: 16%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.button{
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    color: white;
+
+    padding: 15px 20px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 0.4s ease all;
+}
+
+.button i{
+    margin-right: 8px;
+    width: 10px;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+}
+
+.anime-main .container{
+    width: 50%;
+    margin-left: 30px;
+}
+
+.box-movie{
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding-right: 0px;
+}
+
+#carrosel-series .series{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 26px;
+    margin-top: -20px;
+    margin-left: 15px;
+    margin-bottom: 9px;
+}
+
+#carrosel-filmes .movie{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 26px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    margin-top: 2px;
+}
+
+.conteudos{
+    margin-top: -2%;
+}

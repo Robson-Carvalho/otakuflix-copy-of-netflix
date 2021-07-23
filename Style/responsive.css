@@ -1,0 +1,109 @@
+/*Celulares com 375px de largura*/
+@media screen and (max-width:375px){
+    header .container{
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    header .logo{
+        margin-bottom: 5px;
+        margin-left: -32px;
+    }
+    .anime-main .title{
+        margin-top: 100%;
+        font-size: 14px;
+        margin-right: -50%;
+    }
+    .anime-main .sinopse{
+        margin-right: -80%;
+        margin-bottom: 30%;
+        font-size: 13px;
+    }
+    .conteudos{
+        margin-top: 5%;
+    }
+    footer .create{
+        font-size: 10px;
+    }
+}
+
+/*Celulares com 414px de largura*/
+
+@media screen and (max-width: 414px) {
+    header .container{
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    header .logo{
+        margin-bottom: 5px;
+        margin-left: -32px;
+    }
+    .anime-main .title{
+        margin-top: 100%;
+        font-size: 14px;
+        margin-right: -50%;
+    }
+    .anime-main .sinopse{
+        margin-right: -80%;
+        margin-bottom: 30%;
+        font-size: 13px;
+    }
+    .conteudos{
+        margin-top: -10.1%;
+    }
+
+    footer .create{
+        font-size: 10px;
+    }
+}
+
+
+@media screen and (max-width:560px ) {
+    header .container{
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    header .logo{
+        margin-bottom: 5px;
+        margin-left: -32px;
+    }
+    .anime-main .title{
+        margin-top: 60%;
+        font-size: 20px;
+        margin-right: -50%;
+    }
+    .anime-main .sinopse{
+        margin-right: -80%;
+        margin-bottom: 10%;
+        font-size: 16px;
+    }
+    
+
+    footer .create{
+        font-size: 19px;
+    }
+}
+
+/*Continuar responsividade outakuflix 750px*/
+@media screen and (max-width: 950px){
+    .anime-main .sinopse{
+        margin-right: -50%;
+    }
+}
+
+@media screen and (max-width: 1600px){
+    .conteudos{
+        margin-top: -4%;
+    }
+}
+
+@media screen and (max-width: 875px){
+    .conteudos{
+        margin-top: -8%;
+    }
+}
