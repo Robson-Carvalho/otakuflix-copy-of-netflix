@@ -51,9 +51,9 @@ header nav a:hover{
 
 .anime-main{
     font-size: 16px;
-    background: linear-gradient( to right, black -85rem, transparent), linear-gradient(to top, black -2rem, transparent ), url(/img/logo-main.png);
+    background: linear-gradient( to right, black -25rem, transparent), linear-gradient(to top, black 1rem, transparent ), url(/img/logo-main.png);
     
-    height: 600px;
+    height: 800px;
     background-size: cover;
 
     display: flex;
@@ -71,13 +71,13 @@ header nav a:hover{
 }
 
 .anime-main .title{
-    margin-top: 16%;
+    margin-top: 35%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
 .button{
-    background-color: rgba(0, 0, 0, .50);
+    background-color: rgba(255, 255, 255, .20);
     border: none;
     color: white;
 
