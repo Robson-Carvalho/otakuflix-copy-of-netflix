@@ -1,7 +1,7 @@
 
 <img align="center" alt="Robson" src="https://github.com/Robson-Carvalho/OTAKUFLIX-A-COPY-OF-NETFLIX/blob/main/img/icone-otakuflix.png?raw=true">
 
-# OTAKUFLIX <img align="center" height="100" width="100" alt="Robson" src="https://i.pinimg.com/originals/d1/37/db/d137db1d40598f876d12faf92e93709f.jpg">
+# OTAKUFLIX 
 
  Como desafio do bootcamp da digital innovation recriei a interface do principal site de streaming mundial, mas com a minha cara ksksk, só com animes. Utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto eu aprendi: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery. Gostei muito de criar o OTAKUFLIX, foi muito divertido, além de aprender tudo o que foi citado acima!
 
