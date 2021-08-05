@@ -51,7 +51,7 @@ header nav a:hover{
 
 .anime-main{
     font-size: 16px;
-    background: linear-gradient( to right, black -25rem, transparent), linear-gradient(to top, black 1rem, transparent ), url(/img/logo-main.png);
+    background: linear-gradient( to right, black -25rem, transparent), linear-gradient(to top, black 1rem, transparent ), url(logo-main.png);
     
     height: 800px;
     background-size: cover;
