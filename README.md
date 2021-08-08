@@ -41,3 +41,6 @@ Dentro da div itens seram adicionados as imagens ou outros arquivos, esses image
     <div class="item"><h4>12</h4></div>
 </div>
 ```
+
+Link do site: <a href="https://robson-carvalho.github.io/OTAKUFLIX-A-COPY-OF-NETFLIX/"><img align="center" alt="Robson" src="https://github.com/Robson-Carvalho/OTAKUFLIX-A-COPY-OF-NETFLIX/blob/main/img/icone-otakuflix.png?raw=true" width="30">
+</a>
