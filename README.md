@@ -5,7 +5,8 @@
 
  Como desafio do bootcamp da digital innovation recriei a interface do principal site de streaming mundial, mas com a minha cara ksksk, só com animes. Utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto eu aprendi: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery. Gostei muito de criar o OTAKUFLIX, foi muito divertido, além de aprender tudo o que foi citado acima!
 
-### Para o carrossel de filmes e séries foi utilizado o  [Owl Carousel 2] do JQuery <img align="center" height="50" width="50" alt="Robson" src="https://flanp.com/images/jquery-logo.png">
+### Link do site: <a href="https://robson-carvalho.github.io/OTAKUFLIX-A-COPY-OF-NETFLIX/"><img align="center" alt="Robson" src="https://github.com/Robson-Carvalho/OTAKUFLIX-A-COPY-OF-NETFLIX/blob/main/img/icone-otakuflix.png?raw=true" width="30">
+</a>
 
 
 ### Setup
@@ -41,6 +42,3 @@ Dentro da div itens seram adicionados as imagens ou outros arquivos, esses image
     <div class="item"><h4>12</h4></div>
 </div>
 ```
-
-Link do site: <a href="https://robson-carvalho.github.io/OTAKUFLIX-A-COPY-OF-NETFLIX/"><img align="center" alt="Robson" src="https://github.com/Robson-Carvalho/OTAKUFLIX-A-COPY-OF-NETFLIX/blob/main/img/icone-otakuflix.png?raw=true" width="30">
-</a>
