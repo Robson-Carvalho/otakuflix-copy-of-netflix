@@ -13,7 +13,7 @@
 /*elementos base*/
 body{
     background: var(--black);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     color: var(--white);
 }
 
